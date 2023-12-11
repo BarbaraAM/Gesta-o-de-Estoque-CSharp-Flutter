@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "Iproduto": 1,
+      "Nproduto": "regata",
+      "Qntproduto": 56.0,
+      "Vlrproduto": 59.9,
+      "Ativo": false
+    },
+    {
+      "Iproduto": 2,
+      "Nproduto": "camiseta",
+      "Qntproduto": 50.0,
+      "Vlrproduto": 59.9,
+      "Ativo": false
+    },
+    {
+      "Iproduto": 3,
+      "Nproduto": "sandalia",
+      "Qntproduto": 24.0,
+      "Vlrproduto": 70.9,
+      "Ativo": false
+    },
+    {
+      "Iproduto": 4,
+      "Nproduto": "moletom",
+      "Qntproduto": 56.0,
+      "Vlrproduto": 59.9,
+      "Ativo": false
+    }
+  ]
+}
